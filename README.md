@@ -1,6 +1,6 @@
 # CARLA-ROS-RDA Bridge
 
-Download the CARLA-MAP from [here]()
+Download the CARLA-MAP from [here](https://drive.google.com/file/d/1mrN5Huq_dLB-yfFZw-MomFVwu-8GEwfn/view?usp=sharing)
 
 # Prerequisite
 
