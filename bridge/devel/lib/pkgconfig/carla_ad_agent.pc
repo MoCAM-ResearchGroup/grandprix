@@ -1,0 +1,8 @@
+prefix=/home/iotsc/grandprix/bridge/devel
+
+Name: carla_ad_agent
+Description: Description of carla_ad_agent
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy

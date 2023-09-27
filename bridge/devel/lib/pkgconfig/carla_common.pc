@@ -1,0 +1,8 @@
+prefix=/home/iotsc/grandprix/bridge/devel
+
+Name: carla_common
+Description: Description of carla_common
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/iotsc/grandprix/bridge/devel
+
+Name: carla_spawn_objects
+Description: Description of carla_spawn_objects
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy

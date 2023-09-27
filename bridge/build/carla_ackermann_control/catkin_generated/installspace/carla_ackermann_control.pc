@@ -1,0 +1,8 @@
+prefix=/home/iotsc/grandprix/bridge/install
+
+Name: carla_ackermann_control
+Description: Description of carla_ackermann_control
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

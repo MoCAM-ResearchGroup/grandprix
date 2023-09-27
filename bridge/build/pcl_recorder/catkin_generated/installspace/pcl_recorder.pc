@@ -1,0 +1,8 @@
+prefix=/home/iotsc/grandprix/bridge/install
+
+Name: pcl_recorder
+Description: Description of pcl_recorder
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
