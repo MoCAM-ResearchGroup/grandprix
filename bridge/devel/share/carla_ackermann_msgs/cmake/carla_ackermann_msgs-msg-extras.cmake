@@ -1,2 +1,0 @@
-set(carla_ackermann_msgs_MESSAGE_FILES "/home/iotsc/grandprix/bridge/src/carla_ackermann_msgs/msg/EgoVehicleControlInfo.msg;/home/iotsc/grandprix/bridge/src/carla_ackermann_msgs/msg/EgoVehicleControlCurrent.msg;/home/iotsc/grandprix/bridge/src/carla_ackermann_msgs/msg/EgoVehicleControlMaxima.msg;/home/iotsc/grandprix/bridge/src/carla_ackermann_msgs/msg/EgoVehicleControlStatus.msg;/home/iotsc/grandprix/bridge/src/carla_ackermann_msgs/msg/EgoVehicleControlTarget.msg")
-set(carla_ackermann_msgs_SERVICE_FILES "")

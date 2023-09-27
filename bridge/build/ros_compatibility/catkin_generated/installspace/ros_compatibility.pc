@@ -1,8 +1,0 @@
-prefix=/home/iotsc/grandprix/bridge/install
-
-Name: ros_compatibility
-Description: Description of ros_compatibility
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: rospy
