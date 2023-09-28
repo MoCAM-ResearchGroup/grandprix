@@ -1,6 +1,9 @@
 # CARLA-ROS-RDA Bridge
 
-Download the CARLA-MAP from [here](https://drive.google.com/file/d/1mrN5Huq_dLB-yfFZw-MomFVwu-8GEwfn/view?usp=sharing)
+Contest website: [https://contests.cis.um.edu.mo/meta_racing_2023] (https://contests.cis.um.edu.mo/meta_racing_2023)
+
+Download the CARLA-MAP
+[  Google Drive ](https://drive.google.com/file/d/1mrN5Huq_dLB-yfFZw-MomFVwu-8GEwfn/view?usp=sharing) [  Baidu Pan 提取码: absd  ] (https://pan.baidu.com/s/1Jd10r2cOC9FVueip3ZMT_Q) 
 
 # Prerequisite
 
