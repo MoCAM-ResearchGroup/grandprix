@@ -1,8 +1,8 @@
 # Grand Prix Metaverse Autonomous Driving Challenge
 
-<img src="./assets/banner.png" width=600px>
+<img src="./assets/banner.png" width=700px>
 
-<a href="https://youtu.be/48-6jFwECa4"><img src="https://i.ytimg.com/vi/48-6jFwECa4/maxresdefault.jpg" alt="" width="600px"></a>
+<a href="https://youtu.be/48-6jFwECa4"><img src="https://i.ytimg.com/vi/48-6jFwECa4/maxresdefault.jpg" alt="" width="700px"></a>
 
 Contest website: https://contests.cis.um.edu.mo/meta_racing_2023
 
