@@ -22,7 +22,7 @@ Contest website: https://contests.cis.um.edu.mo/meta_racing_2023
 sudo apt-get install ros-noetic-carla-msgs ros-noetic-ackermann-msgs ros-noetic-derived-object-msgs
 ```
 ```
-pip install numpy cvxpy transforms3d pygame
+pip install numpy cvxpy transforms3d pygame empy catkin-pkg rospkg
 ```
 
 # Environment Variables
